@@ -337,7 +337,7 @@ application.secret_key = 'secret_key'
 ```
 
 ### Configure Apache2 file
-- Edit apache's default virtual file
+- Edit Apache's default virtual file
 ```bash
 sudo nano /etc/apache2/sites-available/000-default.conf
 ```
@@ -369,7 +369,7 @@ sudo nano /etc/apache2/sites-available/000-default.conf
 ```bash
 sudo services apache2 restart
 ```
-- From your broweser visit: [Restaurants](http://35.177.162.124/)
+- From your browser visit: [Restaurants](http://35.177.162.124/)
 
 ## Resources
 
